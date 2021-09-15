@@ -19,7 +19,7 @@ public class BaiTapSlide24 {
         System.out.println("Nhap so tu nhien b: ");
         int b=sc.nextInt();
         if (a >= b) {
-          System.out.println("Dap an cua phep toan a - b la gi: ");
+          System.out.println("Dap an cua phep toan a - b la: ");
           int c=sc.nextInt();
           if (c == a-b) {
              System.out.println(" Dung "); 
